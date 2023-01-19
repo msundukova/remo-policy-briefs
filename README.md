@@ -1,3 +1,15 @@
+Update for the OLS-6 graduation:
+
+Extra materials:
+* You can check the template for summaries on mental health of researchers in different countries https://zenodo.org/record/7288764#.Y8lXCE6ZO3A 
+* Follow ReMO on Linkedin to be informed about webinars and events https://www.linkedin.com/in/remo-cost-action/ 
+* Watch previous talks on ReMO channel https://www.youtube.com/channel/UCk2Bbj2eVm-AixJHOU_8jqQ 
+* Visit ReMO crowd-sourced library of publications on mental health of researchers - read and add yours https://www.zotero.org/groups/2521493/researcher_mental_health/library
+* Visit the repository for talks and reports by ReMO https://zenodo.org/communities/remo/?page=1&size=20
+* Read the Manifesto for Researcher Mental Health in different languages  https://zenodo.org/record/5788557#.Y8lPDE6ZO3A 
+* If you would like to be officially involved, check  https://projects.tib.eu/remo/ to know ReMO for instructions on how to join or ask Mayya
+
+
 (Currently in construction)
 
 ## remo-policy-briefs
